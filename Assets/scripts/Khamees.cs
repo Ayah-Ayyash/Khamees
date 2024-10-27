@@ -9,6 +9,7 @@ public class Khamees : MonoBehaviour
     {
         Debug.Log("Ayah-Ayyash");       
          Debug.Log("Ayah-Ayyash");
+         Debug.Log("Ayyash");
 
     }
 
